@@ -1,0 +1,8 @@
+.one{
+    height: 250px;
+    max-width: 280px;
+    padding: 20px;
+    background-color: rgba(180, 180, 180, 0.652);
+    color: rgba(0, 0, 0, 0.585);
+    border-radius: 15px;
+}
