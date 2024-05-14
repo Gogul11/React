@@ -21,3 +21,8 @@ An "INCREMENT" button, which when clicked, calls the increment function.
 A "DECREMENT" button, which when clicked, calls the decrement function.
 
 A "RESET" button, which when clicked, calls the reset function.
+
+
+The Output of the program is : 
+
+![alt text](image.png)
